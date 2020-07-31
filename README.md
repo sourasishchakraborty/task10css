@@ -1,6 +1,7 @@
 ### CSS Task 10 (Responsive Layout)
 
 ### Link to visit:
+https://sourasishchakraborty.github.io/task10css/
 
 
 ### Snapshots:
